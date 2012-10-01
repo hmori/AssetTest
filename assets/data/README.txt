@@ -1,0 +1,1 @@
+assetsフォルダからStorageに展開するサンプルプログラムです。StorageManagerコンストラクタの第3引数をtrueにするとSDカードに展開します。
